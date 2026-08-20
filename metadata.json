@@ -1,0 +1,6 @@
+{
+  "name": "Plantão TI & Suporte Colaborativo",
+  "description": "Sistema colaborativo em tempo real para gestão de chamados de plantão, múltiplos usuários simultâneos, perfis de acesso e envio automatizado de relatório consolidado por e-mail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
